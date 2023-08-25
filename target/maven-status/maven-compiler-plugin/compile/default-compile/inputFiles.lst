@@ -1,0 +1,8 @@
+E:\soap\demo\src\main\java\com\example\soap\controller\PersonController.java
+E:\soap\demo\src\main\java\com\example\soap\model\Person.java
+E:\soap\demo\src\main\java\com\example\soap\config\SoapWSConfig.java
+E:\soap\demo\src\main\java\com\example\soap\SoapApplication.java
+E:\soap\demo\target\generated-sources\jaxb\org\yourorganization\schemas\namespace\Person.java
+E:\soap\demo\src\main\java\com\example\soap\service\PersonService.java
+E:\soap\demo\target\generated-sources\jaxb\org\yourorganization\schemas\namespace\package-info.java
+E:\soap\demo\target\generated-sources\jaxb\org\yourorganization\schemas\namespace\ObjectFactory.java

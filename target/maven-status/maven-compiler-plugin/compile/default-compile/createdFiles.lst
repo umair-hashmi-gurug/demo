@@ -1,0 +1,8 @@
+com\example\soap\config\SoapWSConfig.class
+com\example\soap\service\PersonService.class
+org\yourorganization\schemas\namespace\ObjectFactory.class
+org\yourorganization\schemas\namespace\package-info.class
+org\yourorganization\schemas\namespace\Person.class
+com\example\soap\controller\PersonController.class
+com\example\soap\SoapApplication.class
+com\example\soap\model\Person.class
